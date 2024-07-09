@@ -1,5 +1,5 @@
 <h3>Hi 👋, I'm Doug!</h3>
-<h4>A passionate back-end developer for codes and software design!</h4>
+<h4>A passionate back-end developer for coding and software design!</h4>
 <br>
 
 🔭 I’m currently working on **private corporative applications**
